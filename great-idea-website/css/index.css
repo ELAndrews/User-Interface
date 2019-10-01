@@ -86,13 +86,17 @@ header{
 nav {
 	display: inline-block;
 	margin: 0px 20px;
-	width: 70%;
+	width: 75%;
 }
 
 nav a {
 	text-decoration: none;
 	color: black;
 	padding: 0px 30px;
+}
+
+nav a:hover {
+	color: white;
 }
 
 .logo {
@@ -131,6 +135,12 @@ h1 {
 	color: rgb(173, 172, 173);
 	border: 2px solid rgb(173, 172, 173);
 	padding: 2px 40px;
+}
+
+.top-content-text a:hover {
+	background-color: rgb(49, 154, 254);
+	transition: background 0.5s ease-in;
+	color: white;
 }
 
 .section-content {
