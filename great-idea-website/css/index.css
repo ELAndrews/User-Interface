@@ -108,11 +108,11 @@ nav a {
 .top-content-text, .top-content img {
 	display: inline-block;
 	margin: 0px 50px;
-	border: 2px solid black;
 }
-*****************************
+
 .top-content-text {
-	margin: auto 0;
+	position: relative;
+	bottom: 50px;
 }
 
 h1 {
