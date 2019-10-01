@@ -54,11 +54,11 @@ table {
 
 html, body {
     height: 100%;
-    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Turret Road', cursive;
 }
 
 h1, h2, h3, h4, h5 {
-    font-family: 'Bangers', cursive;
+    font-family: 'Permanent Marker', cursive;
     letter-spacing: 1px;
     margin-bottom: 15px;
 }
@@ -93,7 +93,6 @@ nav a {
 	text-decoration: none;
 	color: black;
 	padding: 0px 30px;
-	
 }
 
 .logo {
@@ -131,7 +130,7 @@ h1 {
 	text-decoration: none;
 	color: rgb(173, 172, 173);
 	border: 2px solid rgb(173, 172, 173);
-	padding: 2px 40px; 
+	padding: 2px 40px;
 }
 
 .section-content {
