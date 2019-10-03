@@ -1,4 +1,4 @@
-Emma Andrews
+Emma Andrews.
 
 
 # User Interface Project: Great Idea Web Page
